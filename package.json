@@ -14,8 +14,8 @@
 	"version": "1.0.0",
 	"description": "A project that does something awesome",
 	"author": "julian",
-	"license": "HelloPeter",
-	"keywords": [ "freecodecamp", "microservice", "guide" ]
+	"keywords": [ "freecodecamp", "microservice", "guide" ],
+	"license": "ExampleLicense"
 
 
 	
