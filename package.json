@@ -17,8 +17,7 @@
 	"description": "A project that does something awesome",
 	"author": "julian",
 	"keywords": [ "freecodecamp", "microservice", "guide" ],
-	"license": "ExampleLicense",
-	"@freecodecamp/example": "1.1.0"
+	"license": "ExampleLicense"
 
 
 	
