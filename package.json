@@ -9,8 +9,11 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://idontknow/todo.git"
+		"url": "https://github.com/juliansales58/jslearning.git"
 	},
 	"version": "1.0.0",
+	"description": "A project that does something awesome",
 	"author": "julian"
+
+	
 }
