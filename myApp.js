@@ -1,5 +1,3 @@
-console.log("Hello world");
-
 const express = require('express');//importa le modulo express
 const app = express();//crea la instancia de express
 const port = 3000; //se define el puerto
